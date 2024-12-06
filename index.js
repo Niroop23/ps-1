@@ -1,5 +1,3 @@
-// Challenge 2:
-// Replace the parameters below according to your preference.
 
 // space, scary, military, romantic, cowboy, fantasy, superhero
 favouriteMovieGenre("romantic")
@@ -15,10 +13,6 @@ favouriteEdgeStyle("soft")
 
 
 
-
-////////////////////////////////////
-// IGONE THE CODE BELOW THIS LINE //
-////////////////////////////////////
 
 function setProp(prop, value) {
     document.documentElement.style.setProperty(prop, value)
